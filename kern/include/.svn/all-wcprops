@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include
+END
+emufs.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/emufs.h
+END
+spinlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/spinlock.h
+END
+cdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/cdefs.h
+END
+addrspace.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/addrspace.h
+END
+cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/cpu.h
+END
+copyinout.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/copyinout.h
+END
+vfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/vfs.h
+END
+spl.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/spl.h
+END
+device.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/device.h
+END
+wchan.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/wchan.h
+END
+threadprivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/threadprivate.h
+END
+setjmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/setjmp.h
+END
+lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/lib.h
+END
+thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/thread.h
+END
+fs.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/fs.h
+END
+vnode.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/vnode.h
+END
+bitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/bitmap.h
+END
+signal.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/signal.h
+END
+test.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/test.h
+END
+vm.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/vm.h
+END
+current.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/current.h
+END
+stdarg.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/stdarg.h
+END
+synch.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/synch.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/version.h
+END
+clock.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/clock.h
+END
+uio.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/uio.h
+END
+endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/endian.h
+END
+mainbus.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/mainbus.h
+END
+limits.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/limits.h
+END
+threadlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/threadlist.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/types.h
+END
+elf.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/elf.h
+END
+syscall.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/kern/include/syscall.h
+END
+stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/stat.h
+END
+array.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/include/array.h
+END

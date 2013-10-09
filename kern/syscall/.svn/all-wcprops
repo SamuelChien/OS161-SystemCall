@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/syscall
+END
+loadelf.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/syscall/loadelf.c
+END
+simple_syscalls.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/csc369-2013-09/g2samuel/!svn/ver/4/a1/src/kern/syscall/simple_syscalls.c
+END
+time_syscalls.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/syscall/time_syscalls.c
+END
+runprogram.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/syscall/runprogram.c
+END

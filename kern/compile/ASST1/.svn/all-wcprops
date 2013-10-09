@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/kern/compile/ASST1
+END
+.depend
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/kern/compile/ASST1/.depend
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/kern/compile/ASST1/Makefile
+END
+opt-a1debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/kern/compile/ASST1/opt-a1debug.h
+END
+autoconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/kern/compile/ASST1/autoconf.c
+END
+kernel
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/kern/compile/ASST1/kernel
+END
+opt-dumbvm.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/kern/compile/ASST1/opt-dumbvm.h
+END
+opt-synchprobs.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/kern/compile/ASST1/opt-synchprobs.h
+END
+vers.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/kern/compile/ASST1/vers.c
+END
+autoconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/kern/compile/ASST1/autoconf.h
+END
+version
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/kern/compile/ASST1/version
+END
+opt-noasserts.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/kern/compile/ASST1/opt-noasserts.h
+END
+files.mk
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/kern/compile/ASST1/files.mk
+END

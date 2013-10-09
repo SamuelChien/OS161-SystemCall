@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin
+END
+conman
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/conman
+END
+hog
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/hog
+END
+rmtest
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/rmtest
+END
+filetest
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/filetest
+END
+sty
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/sty
+END
+guzzle
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/guzzle
+END
+dirconc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/dirconc
+END
+hash
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/hash
+END
+huge
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/huge
+END
+add
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/add
+END
+tail
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/tail
+END
+printchartest
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/csc369-2013-09/g2samuel/!svn/ver/3/a1/src/build/install/testbin/printchartest
+END
+parallelvm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/parallelvm
+END
+crash
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/crash
+END
+forktest
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/forktest
+END
+bigfile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/bigfile
+END
+faulter
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/faulter
+END
+sink
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/sink
+END
+bigexec
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/bigexec
+END
+malloctest
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/malloctest
+END
+triplesort
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/triplesort
+END
+exittest
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/exittest
+END
+rmdirtest
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/rmdirtest
+END
+dirtest
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/dirtest
+END
+randcall
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/randcall
+END
+ctest
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/ctest
+END
+badcall
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/badcall
+END
+matmult
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/matmult
+END
+f_test
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/f_test
+END
+kitchen
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/kitchen
+END
+farm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/farm
+END
+dirseek
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/dirseek
+END
+sort
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/sort
+END
+triplemat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/triplemat
+END
+forkbomb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/forkbomb
+END
+palin
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/palin
+END
+tictac
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/tictac
+END
+psort
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/psort
+END
+triplehuge
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/triplehuge
+END
+argtest
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/testbin/argtest
+END

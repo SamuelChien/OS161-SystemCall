@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/user/lib/libc/string
+END
+memset.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/user/lib/libc/string/memset.c
+END
+memcmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/user/lib/libc/string/memcmp.c
+END
+strerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/user/lib/libc/string/strerror.c
+END
+strtok.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/user/lib/libc/string/strtok.c
+END

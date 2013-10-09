@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/common/libc/printf
+END
+__printf.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/common/libc/printf/__printf.c
+END
+snprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/common/libc/printf/snprintf.c
+END

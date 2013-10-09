@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/dev/generic
+END
+console.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/dev/generic/console.h
+END
+beep.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/dev/generic/beep.c
+END
+beep.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/dev/generic/beep.h
+END
+random.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/dev/generic/random.c
+END
+rtclock.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/dev/generic/rtclock.c
+END
+console.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/dev/generic/console.c
+END
+random.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/dev/generic/random.h
+END
+rtclock.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/csc369-2013-09/g2samuel/!svn/ver/1/a1/src/kern/dev/generic/rtclock.h
+END

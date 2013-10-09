@@ -1,0 +1,83 @@
+10
+
+dir
+2
+https://drproject.cdf.toronto.edu/svn/csc369-2013-09/g2samuel/a1/src/build/install/man
+https://drproject.cdf.toronto.edu/svn/csc369-2013-09/g2samuel
+
+
+
+2013-09-20T18:51:45.680637Z
+2
+g2samuel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4a6188a5-39dd-430b-9176-45719086e85e
+
+bin
+dir
+
+testbin
+dir
+
+libc
+dir
+
+syscall
+dir
+
+index.html
+file
+
+
+
+
+2013-09-18T21:17:41.000000Z
+9ed1c9c9b1d137c1704b4ba7a2474c66
+2013-09-20T18:51:45.680637Z
+2
+g2samuel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+433
+
+misc
+dir
+
+sbin
+dir
+
+dev
+dir
+

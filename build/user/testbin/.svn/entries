@@ -1,0 +1,148 @@
+10
+
+dir
+2
+https://drproject.cdf.toronto.edu/svn/csc369-2013-09/g2samuel/a1/src/build/user/testbin
+https://drproject.cdf.toronto.edu/svn/csc369-2013-09/g2samuel
+
+
+
+2013-09-20T18:51:45.680637Z
+2
+g2samuel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4a6188a5-39dd-430b-9176-45719086e85e
+
+hog
+dir
+
+rmtest
+dir
+
+filetest
+dir
+
+sty
+dir
+
+guzzle
+dir
+
+dirconc
+dir
+
+hash
+dir
+
+huge
+dir
+
+add
+dir
+
+tail
+dir
+
+printchartest
+dir
+
+parallelvm
+dir
+
+crash
+dir
+
+forktest
+dir
+
+bigfile
+dir
+
+faulter
+dir
+
+sink
+dir
+
+bigexec
+dir
+
+triplesort
+dir
+
+malloctest
+dir
+
+exittest
+dir
+
+rmdirtest
+dir
+
+dirtest
+dir
+
+randcall
+dir
+
+ctest
+dir
+
+badcall
+dir
+
+matmult
+dir
+
+f_test
+dir
+
+kitchen
+dir
+
+farm
+dir
+
+dirseek
+dir
+
+sort
+dir
+
+triplemat
+dir
+
+forkbomb
+dir
+
+palin
+dir
+
+tictac
+dir
+
+psort
+dir
+
+triplehuge
+dir
+
+argtest
+dir
+
+conman
+dir
+

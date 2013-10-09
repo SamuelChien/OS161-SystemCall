@@ -1,0 +1,101 @@
+10
+
+dir
+1
+https://drproject.cdf.toronto.edu/svn/csc369-2013-09/g2samuel/a1/src/user/bin
+https://drproject.cdf.toronto.edu/svn/csc369-2013-09/g2samuel
+
+
+
+2013-09-18T21:16:48.592305Z
+1
+g2samuel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4a6188a5-39dd-430b-9176-45719086e85e
+
+ln
+dir
+
+false
+dir
+
+pwd
+dir
+
+sh
+dir
+
+sync
+dir
+
+rmdir
+dir
+
+Makefile
+file
+
+
+
+
+2013-09-18T21:17:57.000000Z
+05369b27f86bc0a0792031d43901f148
+2013-09-18T21:16:48.592305Z
+1
+g2samuel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+217
+
+ls
+dir
+
+rm
+dir
+
+true
+dir
+
+cp
+dir
+
+mv
+dir
+
+mkdir
+dir
+
+cat
+dir
+

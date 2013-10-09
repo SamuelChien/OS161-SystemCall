@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/include/kern/mips
+END
+signal.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/include/kern/mips/signal.h
+END
+endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/include/kern/mips/endian.h
+END
+machine
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/include/kern/mips/machine
+END
+regdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/include/kern/mips/regdefs.h
+END
+mips
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/include/kern/mips/mips
+END
+setjmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/include/kern/mips/setjmp.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/csc369-2013-09/g2samuel/!svn/ver/2/a1/src/build/install/include/kern/mips/types.h
+END
